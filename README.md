@@ -1,4 +1,4 @@
-# 📝 Yelp Review Sentiment Analysis
+# Yelp Review Sentiment Analysis
 
 This project analyzes Yelp restaurant reviews to classify them into **positive**, **neutral**, or **negative** sentiment categories using natural language processing (NLP) techniques and the VADER sentiment analysis tool.
 
